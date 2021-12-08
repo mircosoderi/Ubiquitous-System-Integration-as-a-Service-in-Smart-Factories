@@ -1,7 +1,7 @@
 # Ubiquitous System Integration as a Service in Smart Factories
 
-This repository is associated to a conference paper not published yet.
+This repository is associated to this publication:
 
-The paper will be linked here once published.
+https://ieeexplore.ieee.org/document/9628434
 
 Please use Git LFS for large files such as example_volumes_backup.tar.

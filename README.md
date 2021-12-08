@@ -1,6 +1,6 @@
 # Ubiquitous System Integration as a Service in Smart Factories
 
-This repository is associated to this publication:
+Please refer to the following IEEE Xplore publication to learn more about the artifacts contained in this repository:
 
 https://ieeexplore.ieee.org/document/9628434
 
